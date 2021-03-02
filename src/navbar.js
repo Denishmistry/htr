@@ -22,7 +22,7 @@ class NavBar extends React.Component {
                               <ul id="nav" className="site-main-menu">
                               
                                 <li>
-                                  <Link  className="pt-trigger" to='/hrt'>About Me</Link>
+                                  <Link  className="pt-trigger" to='/'>About Me</Link>
                                 
                                 </li>
                                 <li>

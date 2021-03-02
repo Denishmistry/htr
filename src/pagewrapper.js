@@ -15,7 +15,7 @@ class PageWrapper extends React.Component {
                   <div className="pt-wrapper">
                     <div className="subpages">
                     <Switch>
-                       <Route  exact path="/hrt" component={AboutUS} />
+                       <Route  exact path="/" component={AboutUS} />
                        <Route path="/resume" component={Resume} />
                        <Route path="/portfolio" component={Portfolio} />
                        <Route path="/contact" component={Contact} /> 
